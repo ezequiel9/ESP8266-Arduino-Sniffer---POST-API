@@ -1,6 +1,6 @@
 # Create a mac sniffer using arduino ESP8266 / Wemos d1 mini / Wemos d1 mini pro.
 
-## Prmoiscous fake ssid
+## Promiscuous fake ssid
 ## Post data collected in a json to a http server
 
 Example to receive it with PHP - Laravel 
